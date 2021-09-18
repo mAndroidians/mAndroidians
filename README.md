@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mAndroidians
 - 👀 I’m interested in Mobile and Web development
 - 🌱 I’m currently learning spring-boot
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Mail me (-mangalpsingh@gmail.com)
 
 <!---
